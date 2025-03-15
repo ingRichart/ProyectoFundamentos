@@ -36,9 +36,10 @@
             // 
             // btnCalcular
             // 
-            btnCalcular.Location = new Point(124, 124);
+            btnCalcular.Location = new Point(142, 165);
+            btnCalcular.Margin = new Padding(3, 4, 3, 4);
             btnCalcular.Name = "btnCalcular";
-            btnCalcular.Size = new Size(170, 44);
+            btnCalcular.Size = new Size(194, 59);
             btnCalcular.TabIndex = 0;
             btnCalcular.Text = "calcular";
             btnCalcular.UseVisualStyleBackColor = true;
@@ -47,27 +48,29 @@
             // lblNumero
             // 
             lblNumero.AutoSize = true;
-            lblNumero.Location = new Point(43, 69);
+            lblNumero.Location = new Point(49, 92);
             lblNumero.Name = "lblNumero";
-            lblNumero.Size = new Size(38, 15);
+            lblNumero.Size = new Size(50, 20);
             lblNumero.TabIndex = 1;
             lblNumero.Text = "label1";
             // 
             // nudNumero
             // 
-            nudNumero.Location = new Point(124, 61);
+            nudNumero.Location = new Point(142, 81);
+            nudNumero.Margin = new Padding(3, 4, 3, 4);
             nudNumero.Name = "nudNumero";
-            nudNumero.Size = new Size(263, 23);
+            nudNumero.Size = new Size(301, 27);
             nudNumero.TabIndex = 2;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(nudNumero);
             Controls.Add(lblNumero);
             Controls.Add(btnCalcular);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)nudNumero).EndInit();

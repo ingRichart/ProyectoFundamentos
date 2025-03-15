@@ -6,7 +6,7 @@ namespace Numero_Primo
         {
             InitializeComponent();
         }
-       
+
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             //COMENTARIO PARA COIDOG
@@ -18,21 +18,35 @@ namespace Numero_Primo
             {
 
 
-                if( numero % i == 0)
+                if (numero % i == 0)
                 {
                     Contador++;
                 }
             }
 
-             if (Contador != 2)
+            if (Contador != 2)
 
-             {
-                MessageBox.Show("El numero no es primo" , "aviso" ,MessageBoxButtons.OK , MessageBoxIcon.Exclamation);
-             }
-            else
-             {
-                MessageBox.Show("El numero  es primo", "aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            {
+                MessageBox.Show("El numero no es primo", "aviso",
+                    MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
+            else
+            {
+                MessageBox.Show("El numero  es primo", "aviso",
+                    MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+           //or (int i = 0; i <= 5; i++)
+           //
+               
+           //
         }
+
+
     }
 }
+           
+        
+   
+
+
+
