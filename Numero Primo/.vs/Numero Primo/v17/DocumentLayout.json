@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\",
   "Documents": [
     {
@@ -12,6 +13,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A24D3C9-97D1-4FAC-A406-9BB0FB2ADC9A}|Numero Primo\\Numero Primo.csproj|c:\\users\\kenna\\onedrive\\documentos\\numerosprimosprofe\\proyectofundamentos\\numero primo\\numero primo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+  "WorkspaceRootPath": "C:\\Users\\balde\\OneDrive\\Documentos\\GitHub\\nm  primo profe\\ProyectoFundamentos\\Numero Primo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24D3C9-97D1-4FAC-A406-9BB0FB2ADC9A}|Numero Primo\\Numero Primo.csproj|c:\\users\\balde\\onedrive\\documentos\\github\\nm  primo profe\\proyectofundamentos\\numero primo\\numero primo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A24D3C9-97D1-4FAC-A406-9BB0FB2ADC9A}|Numero Primo\\Numero Primo.csproj|solutionrelative:numero primo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24D3C9-97D1-4FAC-A406-9BB0FB2ADC9A}|Numero Primo\\Numero Primo.csproj|C:\\Users\\balde\\OneDrive\\Documentos\\GitHub\\nm  primo profe\\ProyectoFundamentos\\Numero Primo\\numero primo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{5A24D3C9-97D1-4FAC-A406-9BB0FB2ADC9A}|Numero Primo\\Numero Primo.csproj|solutionrelative:numero primo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,12 +37,22 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.cs",
               "RelativeDocumentMoniker": "Numero Primo\\Form1.cs",
               "ToolTip": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Numero Primo\\Form1.cs [Dise\u00F1o]",
+=======
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\balde\\OneDrive\\Documentos\\GitHub\\nm  primo profe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.cs",
+              "RelativeDocumentMoniker": "Numero Primo\\Form1.cs",
+              "ToolTip": "C:\\Users\\balde\\OneDrive\\Documentos\\GitHub\\nm  primo profe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.cs",
+              "RelativeToolTip": "Numero Primo\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAc9HbRI3lvxgAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T02:12:24.554Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -39,12 +60,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Numero Primo\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.Designer.cs",
               "RelativeToolTip": "Numero Primo\\Form1.Designer.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
+=======
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\balde\\OneDrive\\Documentos\\GitHub\\nm  primo profe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Form1.cs",
+              "RelativeDocumentMoniker": "Numero Primo\\Form1.cs",
+              "ToolTip": "C:\\Users\\UN\\Documents\\FundamentosProgramacion\\Numero Primo\\Numero Primo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\UN\\Documents\\FundamentosProgramacion\\Numero Primo\\Numero Primo\\Form1.cs [Dise\u00F1o]",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T02:12:07.346Z",
               "EditorCaption": ""

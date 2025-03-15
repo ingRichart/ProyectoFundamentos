@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "inUp977QDTw=",
   "success": true,
   "projectFilePath": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj",
+=======
+  "dgSpecHash": "AYS+7sT6P7o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balde\\OneDrive\\Documentos\\GitHub\\nm  primo profe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
