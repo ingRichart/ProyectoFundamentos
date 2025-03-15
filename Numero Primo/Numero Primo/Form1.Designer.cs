@@ -31,6 +31,7 @@
             btnCalcular = new Button();
             lblNumero = new Label();
             nudNumero = new NumericUpDown();
+            btnVer = new Button();
             ((System.ComponentModel.ISupportInitialize)nudNumero).BeginInit();
             SuspendLayout();
             // 
@@ -60,11 +61,23 @@
             nudNumero.Size = new Size(263, 23);
             nudNumero.TabIndex = 2;
             // 
+            // btnVer
+            // 
+            btnVer.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnVer.Location = new Point(145, 225);
+            btnVer.Name = "btnVer";
+            btnVer.Size = new Size(149, 79);
+            btnVer.TabIndex = 3;
+            btnVer.Text = "VERIFICAR";
+            btnVer.UseVisualStyleBackColor = true;
+            btnVer.Click += btnVer_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnVer);
             Controls.Add(nudNumero);
             Controls.Add(lblNumero);
             Controls.Add(btnCalcular);
@@ -80,5 +93,6 @@
         private Button btnCalcular;
         private Label lblNumero;
         private NumericUpDown nudNumero;
+        private Button btnVer;
     }
 }
