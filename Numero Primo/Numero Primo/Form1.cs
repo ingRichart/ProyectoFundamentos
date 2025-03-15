@@ -35,10 +35,7 @@ namespace Numero_Primo
                 MessageBox.Show("El numero  es primo", "aviso",
                     MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
-           //or (int i = 0; i <= 5; i++)
-           //
-               
-           //
+          //holaaaaa
         }
 
 
