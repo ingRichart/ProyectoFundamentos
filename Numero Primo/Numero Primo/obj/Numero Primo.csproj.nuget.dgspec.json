@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UN\\Documents\\GitHub\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj": {}
+    "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UN\\Documents\\GitHub\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj": {
+    "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UN\\Documents\\GitHub\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj",
+        "projectUniqueName": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj",
         "projectName": "Numero Primo",
-        "projectPath": "C:\\Users\\UN\\Documents\\GitHub\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj",
-        "packagesPath": "C:\\Users\\UN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UN\\Documents\\GitHub\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\obj\\",
+        "projectPath": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\Numero Primo.csproj",
+        "packagesPath": "C:\\Users\\kenna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kenna\\OneDrive\\Documentos\\NumerosPrimosProfe\\ProyectoFundamentos\\Numero Primo\\Numero Primo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\UN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kenna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

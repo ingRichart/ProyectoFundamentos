@@ -31,15 +31,15 @@
             btnCalcular = new Button();
             lblNumero = new Label();
             nudNumero = new NumericUpDown();
-            btnVer = new Button();
             ((System.ComponentModel.ISupportInitialize)nudNumero).BeginInit();
             SuspendLayout();
             // 
             // btnCalcular
             // 
-            btnCalcular.Location = new Point(124, 124);
+            btnCalcular.Location = new Point(142, 165);
+            btnCalcular.Margin = new Padding(3, 4, 3, 4);
             btnCalcular.Name = "btnCalcular";
-            btnCalcular.Size = new Size(170, 44);
+            btnCalcular.Size = new Size(194, 59);
             btnCalcular.TabIndex = 0;
             btnCalcular.Text = "calcular";
             btnCalcular.UseVisualStyleBackColor = true;
@@ -48,39 +48,29 @@
             // lblNumero
             // 
             lblNumero.AutoSize = true;
-            lblNumero.Location = new Point(43, 69);
+            lblNumero.Location = new Point(49, 92);
             lblNumero.Name = "lblNumero";
-            lblNumero.Size = new Size(38, 15);
+            lblNumero.Size = new Size(50, 20);
             lblNumero.TabIndex = 1;
             lblNumero.Text = "label1";
             // 
             // nudNumero
             // 
-            nudNumero.Location = new Point(124, 61);
+            nudNumero.Location = new Point(142, 81);
+            nudNumero.Margin = new Padding(3, 4, 3, 4);
             nudNumero.Name = "nudNumero";
-            nudNumero.Size = new Size(263, 23);
+            nudNumero.Size = new Size(301, 27);
             nudNumero.TabIndex = 2;
-            // 
-            // btnVer
-            // 
-            btnVer.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnVer.Location = new Point(145, 225);
-            btnVer.Name = "btnVer";
-            btnVer.Size = new Size(149, 79);
-            btnVer.TabIndex = 3;
-            btnVer.Text = "VERIFICAR";
-            btnVer.UseVisualStyleBackColor = true;
-            btnVer.Click += btnVer_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(btnVer);
+            ClientSize = new Size(914, 600);
             Controls.Add(nudNumero);
             Controls.Add(lblNumero);
             Controls.Add(btnCalcular);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)nudNumero).EndInit();
@@ -93,6 +83,5 @@
         private Button btnCalcular;
         private Label lblNumero;
         private NumericUpDown nudNumero;
-        private Button btnVer;
     }
 }
