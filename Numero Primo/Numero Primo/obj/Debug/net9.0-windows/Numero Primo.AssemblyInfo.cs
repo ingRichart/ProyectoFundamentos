@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Numero Primo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6208f38cd7ed2d55a1ffe5ddc48489ac21daad0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71486caa38571a0e83f7a5599631a5b0597cd96")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Numero Primo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Numero Primo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
