@@ -1,0 +1,17 @@
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\bin\Debug\net8.0-windows\proyecto batalla naval.exe
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\bin\Debug\net8.0-windows\proyecto batalla naval.deps.json
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\bin\Debug\net8.0-windows\proyecto batalla naval.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\bin\Debug\net8.0-windows\proyecto batalla naval.dll
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\bin\Debug\net8.0-windows\proyecto batalla naval.pdb
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto_batalla_naval.Form1.resources
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto_batalla_naval.Properties.Resources.resources
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.dll
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\refint\proyecto batalla naval.dll
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.pdb
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\proyecto batalla naval.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\FUNDAMENTOS DE PROGRAMACION\proyecto batalla naval\obj\Debug\net8.0-windows\ref\proyecto batalla naval.dll
